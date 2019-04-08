@@ -1,4 +1,4 @@
-# Multiple Image stitching in Python
+# Image Stitching
 
 
 ### Requirements : 
